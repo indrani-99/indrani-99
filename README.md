@@ -19,6 +19,9 @@
 ## 🌐 Connect With Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ip99) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23D93025.svg?logo=gmail&logoColor=white)](mailto:paul.indrani999@gmail.com)
+
+
 
 ## 💻 Tech Stacks:
 
