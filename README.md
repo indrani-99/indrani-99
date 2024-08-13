@@ -1,3 +1,5 @@
+<p padding= 100 align="right"> <img src="https://komarev.com/ghpvc/?username=indrani-99&label=Profile%20views&color=0e75b6&style=flat" alt="indrani-99" margin-left=550/> </p>
+
 <p align="center">
   <img alt="" src="https://miro.medium.com/v2/resize:fit:1024/1*DpimwjeWqoAHbBLjuwKsHA.png" width="55%" height="300">
 </p>
@@ -12,7 +14,6 @@
 <p>
   Now, I’m excited and ready to embark on my career as a developer. I'm looking for a great opportunity where I can leverage my skills to create something amazing and enhance user experiences. If you're seeking a passionate and dedicated developer eager to make a difference, let's connect! 🚀
 </p>
-
 
 
 ## 🌐 Connect With Me:
