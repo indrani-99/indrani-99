@@ -13,7 +13,13 @@
   Now, I’m excited and ready to embark on my career as a developer. I'm looking for a great opportunity where I can leverage my skills to create something amazing and enhance user experiences. If you're seeking a passionate and dedicated developer eager to make a difference, let's connect! 🚀
 </p>
 
-# 💻 Tech Stacks:
+
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ip99) 
+
+## 💻 Tech Stacks:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" />&nbsp;&nbsp;&nbsp;
