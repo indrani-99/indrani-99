@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ip99) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23D93025.svg?logo=gmail&logoColor=white)](mailto:paul.indrani999@gmail.com)
 
-
+<br/>
 
 ## 💻 Tech Stacks:
 
@@ -51,6 +51,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" height="40" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://media.licdn.com/dms/image/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=Ywm0UZpTXbiXPopyfCDty8QXSEVz88QWWCwy28qLUyE" height="40" width="40"/>&nbsp;&nbsp;&nbsp;
 </p>
+
+<br/>
+
+
+## 📊 Github Stats:
+
+![Indrani's GitHub stats](https://github-readme-stats.vercel.app/api?username=indrani-99&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=indrani-99&theme=radical&hide_border=false)
+
+
 
 
 
